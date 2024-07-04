@@ -1,4 +1,3 @@
 # prueba
-Esto es una prueba precisa
 
-prueba vscode
+1pruebas_bucle.ipynb
